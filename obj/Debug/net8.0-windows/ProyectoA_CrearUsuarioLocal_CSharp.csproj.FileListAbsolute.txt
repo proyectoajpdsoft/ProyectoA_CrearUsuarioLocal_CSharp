@@ -1,0 +1,16 @@
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\bin\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.exe
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\bin\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.deps.json
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\bin\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.runtimeconfig.json
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\bin\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.dll
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\bin\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.pdb
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.formCrearUsuario.resources
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.csproj.GenerateResource.cache
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.AssemblyInfoInputs.cache
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.AssemblyInfo.cs
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.csproj.CoreCompileInputs.cache
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.dll
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\refint\ProyectoA_CrearUsuarioLocal_CSharp.dll
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.pdb
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ProyectoA_CrearUsuarioLocal_CSharp.genruntimeconfig.cache
+D:\Git\CSharp\ProyectoA_CrearUsuarioLocal_CSharp\obj\Debug\net8.0-windows\ref\ProyectoA_CrearUsuarioLocal_CSharp.dll

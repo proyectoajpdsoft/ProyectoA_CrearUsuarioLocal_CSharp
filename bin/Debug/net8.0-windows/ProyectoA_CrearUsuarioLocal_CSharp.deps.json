@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoA_CrearUsuarioLocal_CSharp/1.0.0": {
+        "runtime": {
+          "ProyectoA_CrearUsuarioLocal_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoA_CrearUsuarioLocal_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
